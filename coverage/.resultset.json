@@ -1,6 +1,31 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/michaelcallahan/turing_work/2mod/lessons/week1/set_list/spec/features/artists/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/michaelcallahan/turing_work/2mod/lessons/week1/set_list/spec/features/artists/songs/index_spec.rb": {
         "lines": [
           1,
@@ -124,15 +149,29 @@
         "lines": [
           1,
           1,
+          5,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           2,
           null,
           null,
           1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
-          1,
-          1,
+          2,
           null,
           null
         ]
@@ -168,6 +207,6 @@
         ]
       }
     },
-    "timestamp": 1684155896
+    "timestamp": 1684158332
   }
 }
